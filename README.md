@@ -1,2 +1,2 @@
 # first-project
-Jgbcfybt
+Тестовый репозиторий для курса Data Scientist.
